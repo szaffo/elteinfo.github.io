@@ -18,5 +18,5 @@ weisz@inf.elte.hu
 
 ## Ajánlott irodalom az előadáshoz
 
-Simon Péter - Bevezetés az analízisbe
+Simon Péter - Bevezetés az analízisbe 1 (kék borító)
 
