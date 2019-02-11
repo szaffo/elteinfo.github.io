@@ -41,4 +41,10 @@ Félév végén plágium teszt a beadandókra. Hasonlóság nem gond.
 
 Bármilyen papiros alapú segítség használható a géptermes zárthelyin, plusz az előadás diái.
 
+## Hasznos infók
+
+#### Előadás
+
+* Kedvenc programozási tétel: Összegzés tétel
+
 
