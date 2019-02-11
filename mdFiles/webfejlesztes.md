@@ -4,13 +4,13 @@
 
 ## Előadás
 
-Bármelyikbe be leheet járni
+Bármelyikbe be lehet járni
 
 > H: 8-9, 9-10, 13-14
 
 ## Weblapok
 
- * Canvas
+ * [Canvas](https://canvas.elte.hu)
 
 ## Követelmények
 
