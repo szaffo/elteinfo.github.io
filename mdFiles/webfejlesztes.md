@@ -1,6 +1,6 @@
 # Webfejlesztés
 
-> [Tantárgy honlapja](bit.ly/wfkov)
+> [Tantárgy honlapja](http://webfejlesztes.elte.hu/a-kurzusrol/kovetelmenyek/)
 
 ## Előadás
 
