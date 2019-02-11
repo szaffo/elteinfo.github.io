@@ -1,3 +1,0 @@
-# Kezdőlap
-
-* [Webfejlesztés](/webfejlesztes.html)
