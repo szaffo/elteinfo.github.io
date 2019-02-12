@@ -9,4 +9,4 @@
 
 ## Hasznos linkek
 
-* [Moodle](http:moodle.inf.elte.hu)
+* [Moodle](http:moodle.elte.hu)
