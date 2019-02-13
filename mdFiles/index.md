@@ -10,3 +10,7 @@
 ## Hasznos linkek
 
 * [Moodle](http:moodle.elte.hu)
+
+## Időpotnok
+
+* Wireframe: márc. 08. 
