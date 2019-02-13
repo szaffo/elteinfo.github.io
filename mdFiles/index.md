@@ -9,7 +9,7 @@
 
 ## Hasznos linkek
 
-* [Moodle](http:moodle.elte.hu)
+* [Moodle](http://moodle.elte.hu)
 
 ## Időpotnok
 
