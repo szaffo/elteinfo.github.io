@@ -11,7 +11,7 @@
 Három előadás közül lehet választani
 
 * Hétfő, 8-9,  D 0-823 Kitaibel Pál előadó
-* Hétfő, 9-10, D 0-823 Kitaibel Pál előadó
+* Hétfő, 9:15-10:00, D 0-823 Kitaibel Pál előadó
 * Hétfő, 13-14, D 0-822 Mogyoródi József előadó
 
 #### Gyakorlat
