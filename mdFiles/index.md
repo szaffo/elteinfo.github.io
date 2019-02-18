@@ -15,6 +15,8 @@
 
 ## Időpotnok
 
+[Google calendar link](https://calendar.google.com/calendar?cid=ZXJvMWViYTJkaGo2a2RzbW44OXE1MTFyNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 * Március
 	* OOP 1.csoport 1.beadandó: márc. 05.
 	* Wireframe: márc. 08, 18:00
