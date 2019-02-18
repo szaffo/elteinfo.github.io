@@ -1,22 +1,32 @@
 # Webfejlesztés
 
-> [Tantárgy honlapja](http://webfejlesztes.elte.hu/a-kurzusrol/kovetelmenyek/)
+* [Tantárgy honlapja](http://webfejlesztes.elte.hu/a-kurzusrol/kovetelmenyek/)
+* [Tantárgyi wiki](http://webfejlesztes.inf.elte.hu/wiki)
+* [Canvas](https://canvas.elte.hu)
 
-## Előadás
+## Időpontok
 
-Bármelyikbe be lehet járni
+#### Előadás
 
-> H: 8-9, 9-10, 13-14
+Három előadás közül lehet választani
 
-## Weblapok
+* Hétfő, 8-9,  D 0-823 Kitaibel Pál előadó
+* Hétfő, 9-10, D 0-823 Kitaibel Pál előadó
+* Hétfő, 13-14, D 0-822 Mogyoródi József előadó
 
- * [Canvas](https://canvas.elte.hu)
+#### Gyakorlat
+
+Szerda, 12-14, D 00-807 Adatbázis labor
 
 ## Követelmények
 
 ### Első beadandó
 
-Drótvázterv és tartalom összegyűjtése
+Drótvázterv és tartalom összegyűjtése.
+
+Március 8.
+
+[Mockflow](https://mockflow.com/)
 
 ### Második beadandó
 
@@ -31,28 +41,7 @@ Társértékelés
 Modulzáró Kvíz\
 feladat/kvíz minden canvas végén
 
-## Határidő
+## Kapcsolat
 
-> Aznap 18:00-ig
+[Dr. Abonyi-Tóth Andor](http://abonyita.inf.elte.hu)
 
-2019.márc.8\
-2019.márc.10\
-2019.márc.17\
-2019.márc.22
-
-## Javítás
-
-Blogbejegyzés
-
-## Saját honlap témája
-
-Bármi, de nem jogsértő
-
-## Jegyszerzés
-
-Min 50% minden feladatnál!
-
-## Tanácsok
-
-* Sárga irányelvek fontosak. Mínusz pont, ha nincs teljesítve.
-* Legyne folyamatos a munka

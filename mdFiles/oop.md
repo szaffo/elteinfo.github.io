@@ -70,6 +70,6 @@ Bármilyen papiros alapú segítség használható a géptermes zárthelyin, plu
 #### Linkek
 
 * [Beosztás gyakorlaton](https://moodle.elte.hu/pluginfile.php/729448/mod_resource/content/1/Beosztas.pdf)
-* [Mosdle](moodle.inf.elte.hu)
+* [Moodle](moodle.inf.elte.hu)
 
 
