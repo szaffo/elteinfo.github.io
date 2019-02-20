@@ -17,7 +17,7 @@
 * [Remus oldala](https://remus.web.elte.hu)
 * [Tanév rendje](https://www.elte.hu/content/a-2018-2019-es-tanev-rendje.t.16970)
 
-## Időpotnok
+## Időpontok
 
 [Google calendar link](https://calendar.google.com/calendar?cid=ZXJvMWViYTJkaGo2a2RzbW44OXE1MTFyNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
