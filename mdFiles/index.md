@@ -14,6 +14,8 @@
 * [Mockflow](https://mockflow.com/)
 * [Canvas](https://canvas.elte.hu/belepes/)
 * [Dimat Github repo](https://github.com/richard-koch-gomori/teaching-elte-ik-Discrete-mathematics-1)
+* [Remus oldala](https://remus.web.elte.hu)
+* [Tanév rendje](https://www.elte.hu/content/a-2018-2019-es-tanev-rendje.t.16970)
 
 ## Időpotnok
 
