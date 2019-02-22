@@ -42,3 +42,7 @@
 	* WEB	Saját honlap értékelés felülvizsgálata: máj22, 18:00
 * Egyéb
 	* WEB	Blogbejegyzés Készítése: Eredményektől számított 1 hét
+
+## Szórakozás
+
+Katt ide -> [.](http://szlavip.web.elte.hu/?Aj%E1nlom_magam%21:Sz%F3rakoz%E1s) ha szereted a meglepiket
