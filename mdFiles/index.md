@@ -7,6 +7,7 @@
 * [Analízis](/anal.html)
 * [Programozási nyelvek 1](/pny1.html)
 * [Diszkrét matematika](/dimat.html)
+* [Algoritmusok és adatszerkezetek](/algo.html)
 
 ## Hasznos linkek
 
