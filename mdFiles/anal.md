@@ -1,12 +1,16 @@
 # Analízis
 
-Ea: Hétfő, 12:15 - 13:45
-
 [Tantárgy honlap](http://numanal.inf.elte.hu/~weisz/)
 
-## Jegy
+## Időpontok
 
-Jegyet kell szerezni előadásból és gyakorlatból is!
+#### Előadás
+
+Hétfő, 12:15 - 13:45
+
+#### Gyakorlat
+
+Szerda, 14:00 – 15:30
 
 ## Kapcsolat
 
@@ -16,7 +20,7 @@ Weisz Ferenc\
 weisz@inf.elte.hu
 
 
-## Ajánlott irodalom az előadáshoz
+## Ajánlott irodalom
 
 Simon Péter - Bevezetés az analízisbe 1 (kék borító)
 
