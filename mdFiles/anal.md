@@ -6,11 +6,11 @@
 
 #### Előadás
 
-Hétfő, 12:15 - 13:45
+Hétfő, 12:15 - 13:45, D 0-821 Bolyai János
 
 #### Gyakorlat
 
-Szerda, 14:00 – 15:30
+Szerda, 14:00 – 15:30, D 0-409
 
 ## Kapcsolat
 
