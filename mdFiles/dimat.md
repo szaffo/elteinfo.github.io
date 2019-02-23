@@ -14,7 +14,7 @@ Kedd, 16:00 - 15:45, D 00-112
 
 #### Konzultáció
 
-Kedd, 18:00, gyak után
+Kedd, 11:00 - 12:00
 
 #### ZH
 
